@@ -1,4 +1,4 @@
-import notfoundImg from "../assets/images/404notfound.svg";
+import notfoundImg from "../assets/images/404notFound.svg";
 
 import { NavLink, useRouteError } from "react-router-dom";
 
